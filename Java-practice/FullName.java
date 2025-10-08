@@ -1,3 +1,4 @@
+// applying concatenation in java
 public class FullName {
     public static void main(String[] args) {
         String firstName = "John";
