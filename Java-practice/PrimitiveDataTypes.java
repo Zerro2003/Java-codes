@@ -1,3 +1,4 @@
+// A Java program that demonstrates the use of all primitive data types
 public class PrimitiveDataTypes {
     public static void main(String[] args) {
         byte byteVar = 100;
