@@ -1,3 +1,5 @@
+// Demonstration of mixed-type expressions in Java
+
 public class MixedTypeExpressions {
     public static void main(String[] args) {
         int x = 10;
