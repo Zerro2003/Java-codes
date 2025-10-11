@@ -1,3 +1,4 @@
+// A Java program that calculates and displays an employee's gross and net salary based on basic salary, bonus, and tax deductions
 public class SalaryCalculator {
     public static void main(String[] args) {
         double basicSalary = 2500;
