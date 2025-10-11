@@ -1,3 +1,4 @@
+// A Java program that checks if the first of three integers is greater than the other two and if any of them is negative
 import java.util.Scanner;
 
 public class NumberChecker {
