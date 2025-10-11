@@ -1,3 +1,4 @@
+// A Java program that demonstrates type casting (widening and narrowing conversions)
 public class TypeCasting {
     public static void main(String[] args) {
         int myInt = 10;
