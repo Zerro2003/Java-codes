@@ -1,3 +1,4 @@
+// A simple while loop example in Java
 public class simpleLoop {
 	public static void main(String[] args) {
 		int i =1;
