@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// name: Problem04CompareDecimals
 public class Problem04CompareDecimals {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

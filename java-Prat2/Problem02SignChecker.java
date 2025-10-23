@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// name: Problem01PositiveNegative
 public class Problem02SignChecker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// name: Problem03GreatestOfThree
 public class Problem03GreatestOfThree {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
