@@ -1,0 +1,19 @@
+//Question7
+public class BubbleSort {
+    public static void main(String[] args){
+        int[] numbers = {64,34,25,12,22,11,90};
+        System.out.println("Original array: " + java.util.Arrays.toString(numbers));
+
+        int n = numbers.length;
+        for(int i = 0; i < n - 1; i++){
+            for(int j = 0; j < n - i -1;j++){
+                if(numbers[j] > numbers[j+1]){
+                    int temp = numbers[j];
+                    numbers[j] = numbers[j +1];
+                    numbers[j +1] = temp;
+                }
+            }
+        }
+        System.out.println("Sorted Array: " + java.util.Arrays.toString(numbers));
+    }
+}
